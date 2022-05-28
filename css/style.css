@@ -1,9 +1,7 @@
-@font-face {
-    font-family: 'Be Strong';
-    src:url('fonts/strong.otf');
-}
+
 *{
     margin:0; padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .container{
     width: 100%;
@@ -39,6 +37,7 @@ a{
     text-decoration: none;
     color:rgb(85, 14, 14);
     font-size: 18px;
+    font-family: 'Be Strong';
 }
 a:hover{
     text-decoration: none;
